@@ -1,0 +1,4 @@
+include ':video-cache'
+include ':player'
+include ':app'
+rootProject.name = "VideoDemo"

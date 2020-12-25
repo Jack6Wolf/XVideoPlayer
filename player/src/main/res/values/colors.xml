@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="style_color">#005fff</color><!--主题色-->
+    <color name="bottom_container_bg">#99000000</color><!--主题色-->
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="load_success">#4a86e8</color>
+    <color name="load_failure">#ff0000</color>
+</resources>
